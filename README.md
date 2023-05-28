@@ -5,12 +5,6 @@
 
 
 
-### About Me:
-- Hey, I'm avexus and I'm currently learning how to code websites.
-- I am also trying to learn the programming language Lua.
-<br />
-
-
 
 ### Learning and Working With:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
