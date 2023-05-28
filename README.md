@@ -1,6 +1,6 @@
 # avexus
 <br />
-<a href="#"><img src="https://discord.c99.nl/widget/theme-2/620181370203013150.png"></a>
+<a href="#"><img src="https://discord.c99.nl/widget/theme-3/620181370203013150.png"></a>
 <br />
 
 
@@ -10,8 +10,7 @@
 - I am also trying to learn the programming language Lua.
 <br />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Textilpflege)
-<br />
+
 
 ### Learning and Working With:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
